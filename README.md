@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C#, unity, beat saber modding
 - 💞️ I’m looking to collaborate on creating artistic party experiences
 - 📫 How to reach me mike@SadMonsterParty.com
--  I was good at c++ in 1998... new programming approaches make me feel like nobody knows what's going on
+-  I was good at c++... in 1998...
