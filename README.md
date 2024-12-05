@@ -2,5 +2,5 @@
 - 👀 I’m interested in Music, VR, education, growth
 - 🌱 I’m currently learning C#, unity, beat saber modding
 - 💞️ I’m looking to collaborate on creating artistic party experiences
-- 📫 How to reach me mike@SadMonsterParty.com
+- 📫 How to reach me sadMonsterParty.itch.io or sadMonsterParty{at}gmail
 -  I was good at c++... in 1998...
